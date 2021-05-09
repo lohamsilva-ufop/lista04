@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620576556 source:c:\users\loham\documents\github\lista04\questao04\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
